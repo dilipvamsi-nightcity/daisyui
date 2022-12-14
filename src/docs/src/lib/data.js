@@ -130,6 +130,10 @@ export let themes = [
     name: "❄️  Winter",
     id: "winter",
   },
+  {
+    name: "🤖 nightcity",
+    id: "nightcity",
+  },
 ]
 
 export let exampleRepos = [

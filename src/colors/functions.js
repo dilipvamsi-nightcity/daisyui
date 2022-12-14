@@ -244,6 +244,7 @@ module.exports = {
         "night",
         "coffee",
         "winter",
+        "nightcity",
       ];
     } else if (config("daisyui.themes") == false) {
       themeOrder.push("light");
